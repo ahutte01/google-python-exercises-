@@ -113,5 +113,4 @@ def main():
 if __name__ == '__main__':
   main()
 
-# python3.6 babynames.py --summaryfile baby*.html # make summaryfiles for all inputs
-# grep 'Amanda' *.html # see rank over time
+
